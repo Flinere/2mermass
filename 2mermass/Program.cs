@@ -60,7 +60,7 @@
             Console.WriteLine($"У {i + 1} ученика ср оценка{e}");
             Console.WriteLine($"Максимальный балл {max_es}");
             Console.WriteLine($"Минимальный балл {mines}");
-        }s
+        }
         
     }
 
